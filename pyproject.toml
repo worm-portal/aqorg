@@ -23,7 +23,6 @@ dependencies = [
     "sigfig",
     "pandas",
     "rdkit",
-    "pgradd",
     "wormutils",
 ]
 
